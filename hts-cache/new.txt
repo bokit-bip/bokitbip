@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:42:53	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://amzgstore2910.github.io/robots.txt		(from )
+20:42:53	6468/6468	---M-Z	200	added ('OK')	text/html	etag:W/%226726f3a7-1944%22	https://amzgstore2910.github.io/g5/class-441/	C:/My%20Web%20Sites/bitlife/amzgstore2910.github.io/g5/class-441/index.html	(from )
+20:42:53	0/0	---M--	200	added ('OK')	application/javascript	etag:%226726ee83-0%22	https://amzgstore2910.github.io/cloak.js	C:/My%20Web%20Sites/bitlife/amzgstore2910.github.io/cloak.js	(from https://amzgstore2910.github.io/g5/class-441/)
